@@ -2,7 +2,7 @@
   <a href="https://github.com/GabrielDavid1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielDavid1&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDavid1&layout=compact&langs_count=7&theme=gruvbox"/>
-    <img height='180em' src='https://github-readme-streak-stats.herokuapp.com?user=GabrielDavid1&theme=react&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
+    <img height='180em' src='https://github-readme-streak-stats.herokuapp.com?user=GabrielDavid1&theme=gruvbox&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
